@@ -1,0 +1,18 @@
+body{
+    background-color: indianred;
+    color:#4D2222;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#4D2222;
+    height: 80px;
+}
+nav a{
+    color: ivory ;
+    font-size: 14pt;
+    text-decoration: none;
+}
